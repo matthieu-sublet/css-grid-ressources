@@ -19,6 +19,9 @@ https://learncssgrid.com/
 ### A Complete Guide to Grid - [CSS Tricks](https://css-tricks.com/)
 https://css-tricks.com/snippets/css/complete-guide-grid/
 
+### CSS Reference: Grid - [Codrops](https://tympanus.net/codrops/)
+https://tympanus.net/codrops/css_reference/grid/
+
 ## Bugs
 
 ### GridBugs - [@rachelandrew](https://twitter.com/rachelandrew)
