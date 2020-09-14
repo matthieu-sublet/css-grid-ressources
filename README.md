@@ -23,7 +23,8 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 https://tympanus.net/codrops/css_reference/grid/
 
 ### Ahmad Shadeed Blog - [@shadeed9](https://twitter.com/shadeed9)
-https://ishadeed.com/article/grid-layout-flexbox-components/  https://ishadeed.com/article/grid-area/
+https://ishadeed.com/article/grid-layout-flexbox-components/  
+https://ishadeed.com/article/grid-area/
 
 ## Bugs
 
