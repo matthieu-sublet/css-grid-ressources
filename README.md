@@ -22,6 +22,10 @@ https://css-tricks.com/snippets/css/complete-guide-grid/
 ### CSS Reference: Grid - [Codrops](https://tympanus.net/codrops/)
 https://tympanus.net/codrops/css_reference/grid/
 
+### Ahmad Shadeed
+https://ishadeed.com/article/grid-layout-flexbox-components/
+https://ishadeed.com/article/grid-area/
+
 ## Bugs
 
 ### GridBugs - [@rachelandrew](https://twitter.com/rachelandrew)
